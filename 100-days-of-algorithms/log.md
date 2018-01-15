@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 3: January 15, 2017
+Worked on the Longest Increasing Subsequence problem to return the longest subsequence.
+
 ## Day 2: January 14, 2017
 Worked on the O(nLog n) solution of the Longest Increasing Subsequence problem.
 

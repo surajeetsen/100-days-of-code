@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 4: January 16, 2017
+Solved the Longest Common Subsequence problem.
+
 ## Day 3: January 15, 2017
 Worked on the Longest Increasing Subsequence problem to return the longest subsequence.
 

@@ -1,6 +1,7 @@
 package com.algos.dp;
 
 public class LongestCommonSubsequence {
+
     public int getLongestCommonSequenceLength(String a, String b) {
         if(a == null || b == null) {
             return 0;
@@ -11,13 +12,12 @@ public class LongestCommonSubsequence {
         for(int i = 1; i <= a.length(); i++) {
             for(int j = 1; j <= b.length(); j++) {
                 if(a.charAt(i-1) == b.charAt(j-1)) {
-                    maxSubAtPos[i][j] = Math.max(maxSubAtPos[i-1][j-1]+1, Math.max(maxSubAtPos[i-1][j], maxSubAtPos[i][j-1]));
+                    maxSubAtPos[i][j] = 1 + maxSubAtPos[i-1][j-1];
                 } else {
                     maxSubAtPos[i][j] = Math.max(maxSubAtPos[i-1][j], maxSubAtPos[i][j-1]);
                 }
             }
         }
-
         return maxSubAtPos[a.length()][b.length()];
     }
 
@@ -39,5 +39,42 @@ public class LongestCommonSubsequence {
         } else {
             return Math.max(getLCSLengthRecursionUtil(a,b,len1+1, len2), getLCSLengthRecursionUtil(a,b,len1, len2+1));
         }
+    }
+
+    public String getLongestCommonSequence(String a, String b) {
+        if(a == null || b == null) {
+            return "";
+        }
+
+        int[][] maxSubAtPos = new int[a.length()+1][b.length()+1];
+
+        for(int i = 1; i <= a.length(); i++) {
+            for(int j = 1; j <= b.length(); j++) {
+                if(a.charAt(i-1) == b.charAt(j-1)) {
+                    maxSubAtPos[i][j] = 1 + maxSubAtPos[i-1][j-1];
+                } else {
+                    maxSubAtPos[i][j] = Math.max(maxSubAtPos[i-1][j], maxSubAtPos[i][j-1]);
+                }
+            }
+        }
+
+        int i = a.length();
+        int j = b.length();
+
+        StringBuilder longestSubsequence = new StringBuilder();
+
+        while(maxSubAtPos[i][j] != 0) {
+            if(maxSubAtPos[i][j] == maxSubAtPos[i-1][j]) {
+                i = i-1;
+            } else if(maxSubAtPos[i][j] == maxSubAtPos[i][j-1]) {
+                j = j - 1;
+            } else {
+                longestSubsequence.append(b.charAt(j-1));
+                i = i - 1;
+                j = j - 1;
+            }
+        }
+
+        return longestSubsequence.reverse().toString();
     }
 }

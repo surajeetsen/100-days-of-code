@@ -32,4 +32,15 @@ public class LongestCommonSubsequenceTest {
         assertEquals(4, lcs.getLCSLengthRecursion("abcdef", "acbcf"));
         assertEquals(0, lcs.getLCSLengthRecursion("abc", "def"));
     }
+
+    @Test
+    public void getLongestCommonSequenceTest() {
+        assertEquals("", lcs.getLongestCommonSequence(null, "abc"));
+        assertEquals("", lcs.getLongestCommonSequence("", "abc"));
+        assertEquals("", lcs.getLongestCommonSequence("abc", null));
+        assertEquals("", lcs.getLongestCommonSequence("", ""));
+        assertEquals("abcf", lcs.getLongestCommonSequence("abcdef", "acbcf"));
+        assertEquals("", lcs.getLongestCommonSequence("abc", "def"));
+        assertEquals("bcf", lcs.getLongestCommonSequence("bcdef", "acbcf"));
+    }
 }

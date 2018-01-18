@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 6: January 18, 2018
+Worked on the Egg Dropping Problem.
+
 ## Day 5: January 17, 2018
 Worked on the LCS problem to return the Longest Subsequence instead of length.
 

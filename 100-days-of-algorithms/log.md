@@ -1,7 +1,10 @@
 # 100 Days Of Algorithms - Log
 
+## Day 8: January 20, 2018
+Insertion Sort algorithm
+
 ## Day 7: January 19, 2018
-BubbleSort algorithm.
+Bubble Sort algorithm.
 
 ## Day 6: January 18, 2018
 Worked on the Egg Dropping Problem.

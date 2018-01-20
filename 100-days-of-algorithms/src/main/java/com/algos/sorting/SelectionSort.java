@@ -1,6 +1,6 @@
 package com.algos.sorting;
 
-public class InsertionSort {
+public class SelectionSort {
 
     public int[] sort(int[] nums) {
         if(nums == null || nums.length <= 1) {

@@ -1,7 +1,7 @@
 # 100 Days Of Algorithms - Log
 
 ## Day 8: January 20, 2018
-Insertion Sort algorithm
+Selection Sort algorithm
 
 ## Day 7: January 19, 2018
 Bubble Sort algorithm.

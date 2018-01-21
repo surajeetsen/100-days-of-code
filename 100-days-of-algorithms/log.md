@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 9: January 21, 2018
+Insertion Sort Algorithm
+
 ## Day 8: January 20, 2018
 Selection Sort algorithm
 

@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 10: January 22, 2018
+Exponential Search Algorithm
+
 ## Day 9: January 21, 2018
 Insertion Sort Algorithm
 

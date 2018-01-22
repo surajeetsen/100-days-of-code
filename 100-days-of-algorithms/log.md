@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 11: January 23, 2018
+Check if 2 Strings are anagrams of each other
+
 ## Day 10: January 22, 2018
 Exponential Search Algorithm
 

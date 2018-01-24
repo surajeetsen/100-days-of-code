@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 12: January 24, 2018
+Determine if a String has all unique characters
+
 ## Day 11: January 23, 2018
 Check if 2 Strings are anagrams of each other
 

@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 14: January 27, 2018
+First index of an element in a sorted array with duplicates
+
 ## Day 13: January 26, 2018
 Last index of an element in a sorted array with duplicates
 

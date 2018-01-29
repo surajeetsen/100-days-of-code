@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 15: January 29, 2018
+Find the element occuring odd number of times in an array.
+
 ## Day 14: January 27, 2018
 First index of an element in a sorted array with duplicates
 

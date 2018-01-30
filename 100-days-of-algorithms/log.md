@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 16: January 30, 2018
+Missing number in duplicate array.
+
 ## Day 15: January 29, 2018
 Find the element occuring odd number of times in an array.
 

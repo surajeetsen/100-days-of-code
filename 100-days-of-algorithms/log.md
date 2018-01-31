@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 17: January 31, 2018
+Quick Sort Algorithm
+
 ## Day 16: January 30, 2018
 Missing number in duplicate array.
 

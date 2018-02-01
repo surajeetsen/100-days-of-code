@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 18: Feb 1, 2018
+Number disappeared in an array.
+
 ## Day 17: January 31, 2018
 Quick Sort Algorithm
 

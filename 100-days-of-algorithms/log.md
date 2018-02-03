@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 19: Feb 3, 2018
+Leetcode problem 771 Jewels and Stone.
+
 ## Day 18: Feb 1, 2018
 Number disappeared in an array.
 

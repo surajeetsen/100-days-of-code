@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 20: Feb 5, 2018
+Graph datastructure
+
 ## Day 19: Feb 3, 2018
 Leetcode problem 771 Jewels and Stone.
 

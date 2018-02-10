@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 21: Feb 10, 2018
+Print all palindrome partition
+
 ## Day 20: Feb 5, 2018
 Graph datastructure
 

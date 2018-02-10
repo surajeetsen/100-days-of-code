@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 22: Feb 11, 2018
+Largest element in unsorted array.
+
 ## Day 21: Feb 10, 2018
 Print all palindrome partition
 

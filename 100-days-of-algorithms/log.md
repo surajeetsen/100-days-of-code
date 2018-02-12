@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 23: Feb 12, 2018
+LinkedList datastructure
+
 ## Day 22: Feb 11, 2018
 Largest element in unsorted array.
 

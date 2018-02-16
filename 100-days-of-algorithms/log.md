@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 24: Feb 16, 2018
+Reverse LinkedList
+
 ## Day 23: Feb 12, 2018
 LinkedList datastructure
 

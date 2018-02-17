@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 25: Feb 17, 2018
+Reverse Alternate K Nodes of a LinedList
+
 ## Day 24: Feb 16, 2018
 Reverse LinkedList
 

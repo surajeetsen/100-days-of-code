@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 26: Feb 19, 2018
+Sum of LinkedList with Unit Digit as first Node.
+
 ## Day 25: Feb 17, 2018
 Reverse Alternate K Nodes of a LinedList
 

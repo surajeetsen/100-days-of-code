@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 27: Feb 20, 2018
+Largest square of all 1's inside matrix.
+
 ## Day 26: Feb 19, 2018
 Sum of LinkedList with Unit Digit as first Node.
 

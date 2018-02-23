@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 28: Feb 24, 2018
+Check if a single linked list is a palindrome.
+
 ## Day 27: Feb 20, 2018
 Largest square of all 1's inside matrix.
 

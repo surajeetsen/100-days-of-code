@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 30: Feb 26, 2018
+Sort a Linked List.
+
 ## Day 29: Feb 25,2018
 Odd Even LinkedList
 

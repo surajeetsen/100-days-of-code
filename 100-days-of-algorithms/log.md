@@ -1,5 +1,8 @@
 # 100 Days Of Algorithms - Log
 
+## Day 31: Mar 23, 2018
+Delete duplicates from a single LinkedList.
+
 ## Day 30: Feb 26, 2018
 Sort a Linked List.
 

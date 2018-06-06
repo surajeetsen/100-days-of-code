@@ -2,6 +2,12 @@ package com.algos.dp;
 
 public class EggDroppingProblem {
 
+    public static void main(String[] args) {
+        EggDroppingProblem eg = new EggDroppingProblem();
+        //eg.getEggDropsRecursive(100, 2);
+        System.out.println(eg.getEggDropsDP(100, 2));
+    }
+
     public int getEggDropsRecursive(int floors, int eggs) {
         if(eggs == 1 || floors == 0 || floors == 1) {
             return floors;

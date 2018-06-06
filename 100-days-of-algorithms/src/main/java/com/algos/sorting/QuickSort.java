@@ -11,7 +11,7 @@ public class QuickSort {
     }
 
     private int[] sort(int[] nums, int low, int high) {
-        int pivot = low + (int) (Math.random() * (high - low));
+        int pivot = low + (high - low)/2;
 
         int i = low;
         int j = high;
@@ -33,8 +33,8 @@ public class QuickSort {
             }
         }
 
-        if (low < i-1) {
-            sort(nums, low, i-1);
+        if (low < j) {
+            sort(nums, low, j);
         }
 
         if (i < high) {
